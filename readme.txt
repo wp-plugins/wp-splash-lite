@@ -1,7 +1,7 @@
 === WP-Splash-Lite ===
 Contributors: jacobslomp
 Donate link: http://www.js-systems.nl/wp-plugins/wp-splash-lite/
-Tags: splash page
+Tags: splash page, splash, page, under, construction
 Requires at least: 3.0
 Tested up to: 4.2.2
 Stable tag: 1
@@ -41,7 +41,7 @@ Send your client the link www.example.com/?splash=off and the client should be a
 
 
 == Changelog ==
-
+Updated compatible with latest version of wordpress.
 
 
 == Upgrade notice ==
