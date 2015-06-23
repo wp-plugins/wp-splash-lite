@@ -1,7 +1,7 @@
 === WP-Splash-Lite ===
 Contributors: jacobslomp
 Donate link: http://www.js-systems.nl/wp-plugins/wp-splash-lite/
-Tags: splash page, splash, page, under, construction
+Tags: splash page, splash, page, under, construction, under construction, under construction page
 Requires at least: 3.0
 Tested up to: 4.2.2
 Stable tag: 1
